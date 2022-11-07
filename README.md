@@ -1,2 +1,2 @@
-# BSO_article
-Accompanying code for Bee Swarm Optimization Paper
+# Bee swarm optimization (BSO)
+Accompanying code for article on Bee Swarm Optimization in psychometric contexts:
